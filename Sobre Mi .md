@@ -1,0 +1,3 @@
+- 👋 Hola, soy Jose Abel Venegas.
+- 👀 Estoy interesado en aprender diversos lenguajes.
+- 🌱 Actualmente estoy cursando el grado superior de DAM.
